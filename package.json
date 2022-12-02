@@ -24,12 +24,14 @@
     "zustand": "^4.1.4"
   },
   "devDependencies": {
-    "eslint-plugin-prettier": "^4.2.1",
+    "@parcel/packager-raw-url": "2.8.0",
+    "@parcel/transformer-webmanifest": "2.8.0",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "@typescript-eslint/eslint-plugin": "^5.45.0",
     "@typescript-eslint/parser": "^5.45.0",
     "eslint": "^8.28.0",
+    "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.11",
     "parcel": "^2.8.0",
     "prettier": "^2.8.0",
